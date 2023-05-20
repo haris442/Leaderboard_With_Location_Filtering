@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "821467489423",
+    "firebase_url": "https://leaderboardunity-182fb-default-rtdb.firebaseio.com",
+    "project_id": "leaderboardunity-182fb",
+    "storage_bucket": "leaderboardunity-182fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821467489423:android:5c61d3cb1397619e617cfa",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.LeaderBoard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821467489423-eonj52qoflas5qhf15i5k7deunkahb0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv9g6NKNLXOFnXAcDj0kitjHnPMFXAimQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821467489423-eonj52qoflas5qhf15i5k7deunkahb0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

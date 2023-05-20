@@ -1,0 +1,2 @@
+com/DefaultCompany/LeaderBoard/BuildConfig.java
+ com.DefaultCompany.LeaderBoard.BuildConfig
